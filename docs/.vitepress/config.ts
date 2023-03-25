@@ -44,6 +44,17 @@ export default defineConfig({
                     ]
                 }
             ]
+        },
+        algolia: {
+            appId: 'MCTPBQG4ZA', // 需要替换
+            apiKey: '60bb4d65a48ef0757411799be5c05e60', // 需要替换
+            indexName: 'sBook', // 需要替换
+            placeholder: '请输入关键词',
+            translations: {
+                button: {
+                    buttonText: '搜索文档',
+                },
+            },
         }
     }
 })
