@@ -1,3 +1,0 @@
-# foo-one
-
-## one-detail 

@@ -1,3 +1,0 @@
-# bar-two
-
-## two-detail 
