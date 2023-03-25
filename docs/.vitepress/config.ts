@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-    base: '/',
+    base: '/sBook/',
     title: 'sBook',
     description: '描述',
     themeConfig: {
